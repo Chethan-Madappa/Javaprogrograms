@@ -1,0 +1,44 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "cerulean",
+      "year": 2000,
+      "location": "bng",
+      "course": [
+        "Java",
+        "python"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "fuchsia rose",
+      "year": 2001,
+      "location": "dvg",
+      "course": [
+        "c",
+        "java"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "true red",
+      "year": 2002,
+      "location": "hbl",
+      "course": [
+        "selenium",
+        "appium"
+      ]
+    },
+    {
+      "name": "chethi",
+      "year": 2002,
+      "location": "nrt",
+      "course": [
+        "selenium",
+        "etl"
+      ],
+      "id": "256d"
+    }
+  ]
+}
