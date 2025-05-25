@@ -1,4 +1,4 @@
-package method;
+package methods;
 
 public class MethodOverloading {
 	static void add(int a,int b)
